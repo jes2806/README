@@ -1,0 +1,4 @@
+{
+  "markdown.experimental.validate.enabled": true,
+  "markdown.trace": "off"
+}
